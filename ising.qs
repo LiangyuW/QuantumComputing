@@ -52,7 +52,7 @@ namespace Brilliant {
                 ResetAll(q);
             }   
         }
-        // Calculate the average energy over all iterations.
+        // Calculate the total energy.
         let total = IntAsDouble(sum);
         return total;
     }
