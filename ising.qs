@@ -40,7 +40,7 @@ namespace Brilliant {
                     set s w/= i <- 2 * m - 1;
                 }
                 
-                // Code to calculate the energy of this spin configuration will be added here.
+                // Code to calculate the energy of this spin configuration.
                 mutable u=0;
                 mutable v=0;
                 for (i in 0..nQubits - 2) {
