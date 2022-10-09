@@ -1,6 +1,9 @@
 
 //Calculate the total energy of the spins of an Ising model of ferromagnet.
 
+// j = interaction constant between neighbouring atoms
+// h = strength of the magnetic field
+
 namespace Brilliant {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
