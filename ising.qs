@@ -1,3 +1,6 @@
+
+//Calculate the total energy of the spins of an Ising model of ferromagnet.
+
 namespace Brilliant {
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
